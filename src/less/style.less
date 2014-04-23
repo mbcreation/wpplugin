@@ -1,0 +1,70 @@
+//
+// IMPORTING STYLES
+//
+
+
+/*
+BASE (MOBILE) SIZE
+*/
+
+// styles in base.less
+@import "_base.less";
+
+/*
+LARGER MOBILE DEVICES
+*/
+@media only screen and (min-width: 481px) {
+	@import "_481up.less";
+}
+
+/*
+TABLET & SMALLER LAPTOPS
+*/
+@media only screen and (min-width: 768px) {
+	@import "_768up.less";
+}
+
+/*
+Medium Device
+*/
+
+@media only screen and (min-width: 992px) {
+	@import "_992up.less";
+}
+
+
+/*
+Desktop Device
+*/
+
+@media only screen and (min-width: 1030px) {
+	@import "_1030up.less";
+}
+
+/*
+LARGE VIEWING SIZE
+*/
+
+@media only screen and (min-width: 1240px) {
+	@import "_1240up.less";
+
+} 
+
+/*
+RETINA (2x RESOLUTION DEVICES)
+*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-device-pixel-ratio: 1.5) {
+
+	@import "_2x.less";
+
+}
+
+/*
+iPHONE 5 MEDIA QUERY
+*/
+@media (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+
+
+}

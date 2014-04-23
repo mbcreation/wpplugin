@@ -1,0 +1,290 @@
+#mbc-flnfw
+
+#:firebase-live-notification-for-wordpress.php
+msgid "<strong>Warning :</strong> We fail to connect us to your firebase account"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "<strong>Warning :</strong> The CURL extension must be enabled for the plugin \"' . get_class() . '\" is activated"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "<strong>Warning :</strong> the writing rule your firebase account is not secure. Pending modification, \"Active plugin\" is disabled"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "You can make handling your account Firebase Security Rules: to \".write\" false."
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Quickstart"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "View video"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "List Filters for developers"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "List Actions for developers"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "If you have issue with the plugin feel free to mail us at support@mbcreation.net"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "List filters"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php
+msgid "Name"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php
+msgid "Description"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Default Value"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Type"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Sets the rights to the plugin"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Capabilities Wordpress"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Adds a custom theme"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Default themes"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Table"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "List post types"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "$args for get_post_types()"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "CURLOPT_CONNECTTIMEOUT"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php
+msgid "Integer"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "CURLOPT_TIMEOUT"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Length of the popup comments"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Length of the popup posts"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "HTML popup comment"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php
+msgid "String"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "HTML popup post"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Name of BDD Firebase"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "List actions"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Args"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Description args"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Action after sending the review firebase"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Object comment wordpress"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Action after sending the post on firebase"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Object post wordpress"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Firebase Notice"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php
+msgid "Firebase settings"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Firebase Live Notification for WordPress Settings"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "URL Firebase"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "URL Database"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Token Auth"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Token Firebase"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Plugin settings"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Activate plugin"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Active functionality plugin"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Debug mode"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "By choosing this option, the plugin will be available to users with sufficient rights"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Treshold display active"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Sets the minimum size of the screen to trigger the plugin. In PX"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Set timeout for new event"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php firebase-live-notification-for-wordpress.php
+msgid "The length should be expressed in milliseconds (1000ms = 1s)"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Time displays a popup"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Theme settings"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Position"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Choose the position of popup"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Theme"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Choose the theme of popup"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Posts settings"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Activate posts"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Activate firebase for posts"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Display posts"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Choose display posts"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Comments settings"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Activate comments"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Activate firebase for comments"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Save changes"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "%s has commented"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Read comment"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "%s has publish"
+msgstr ""
+
+#:firebase-live-notification-for-wordpress.php
+msgid "Read post"
+msgstr ""
+
