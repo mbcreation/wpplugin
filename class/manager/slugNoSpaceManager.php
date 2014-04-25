@@ -1,12 +1,12 @@
 <?php 
 
 
-if ( ! class_exists( '{PLUGIN_SLUG_NO_SPACE}Manager' ) ) {
+if ( ! class_exists( '{UCFIRST_PLUGIN_SLUG_NO_SPACE}Manager' ) ) {
 
 	/**
-	 * Class slugNoSpaceManager
+	 * Class {UCFIRST_PLUGIN_SLUG_NO_SPACE}Manager
 	 */
-	class {PLUGIN_SLUG_NO_SPACE}Manager{
+	class {UCFIRST_PLUGIN_SLUG_NO_SPACE}Manager{
 
 		protected $is_local;
 
