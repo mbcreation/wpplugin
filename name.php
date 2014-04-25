@@ -20,6 +20,6 @@ add_action( 'plugins_loaded', 'name_loader' );
 function name_loader(){
 	
 	include("constante.php");
-	include("class/manager/{PLUGIN_SLUG_NO_SPACE}Manager.php");
+	include("class/manager/{UCFIRST_PLUGIN_SLUG_NO_SPACE}Manager.php");
 	
 }
