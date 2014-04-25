@@ -15,9 +15,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 
 
-add_action( 'plugins_loaded', 'name_loader' );
+add_action( 'plugins_loaded', '{PLUGIN_SLUG}_loader' );
 
-function name_loader(){
+function {PLUGIN_SLUG}_loader(){
 	
 	include("constante.php");
 	include("class/manager/{UCFIRST_PLUGIN_SLUG_NO_SPACE}Manager.php");
