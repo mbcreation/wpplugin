@@ -1,7 +1,7 @@
 <?php 
 
-if(! defined( '{STRTOUPPER_PLUGIN_NAME}' ) ):
-	define('{STRTOUPPER_PLUGIN_NAME}','{PLUGIN_SLUG}');
+if(! defined( 'NAME_PLUGIN' ) ):
+	define('NAME_PLUGIN','{PLUGIN_SLUG}');
 endif;
 
 ?>

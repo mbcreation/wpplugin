@@ -56,8 +56,8 @@ if ( ! class_exists( '{UCFIRST_PLUGIN_SLUG_NO_SPACE}Manager' ) ) {
 
 
 			// Loads our main stylesheet.
-			wp_enqueue_style( '{PLUGIN_SLUG}-style', plugins_url( {PLUGIN_SLUG} . '/src/css/style.css' ) , array(), '', 'all');
-			wp_enqueue_style( '{PLUGIN_SLUG}-style-ie', plugins_url( {PLUGIN_SLUG} . '/src/css/ie.css' ) , array(), '', 'all');
+			wp_enqueue_style( '{PLUGIN_SLUG}-style', plugins_url( NAME_PLUGIN . '/src/css/style.css' ) , array(), '', 'all');
+			wp_enqueue_style( '{PLUGIN_SLUG}-style-ie', plugins_url( NAME_PLUGIN . '/src/css/ie.css' ) , array(), '', 'all');
 			
 			$wp_styles->add_data( '{NAME_PLUGIN}-style-ie', 'conditional', 'lt IE 9' );
 
