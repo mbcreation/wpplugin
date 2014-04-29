@@ -59,7 +59,7 @@ if ( ! class_exists( '{UCFIRST_PLUGIN_SLUG_NO_SPACE}Manager' ) ) {
 			wp_enqueue_style( '{PLUGIN_SLUG}-style', plugins_url( NAME_PLUGIN . '/src/css/style.css' ) , array(), '', 'all');
 			wp_enqueue_style( '{PLUGIN_SLUG}-style-ie', plugins_url( NAME_PLUGIN . '/src/css/ie.css' ) , array(), '', 'all');
 			
-			$wp_styles->add_data( '{PLUGIN_NAME}-style-ie', 'conditional', 'lt IE 9' );
+			$wp_styles->add_data( '{PLUGIN_SLUG}-style-ie', 'conditional', 'lt IE 9' );
 
 
 		
